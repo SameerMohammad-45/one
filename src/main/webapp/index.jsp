@@ -19,7 +19,7 @@
 	
 	<h1 style="color: black; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	
-	
+	<marquee> this is jenkins practice.</marquee>
 	
 	
 </body>
